@@ -23,8 +23,8 @@
 
 #These variables are accessible from any part of the module
 
-x = 10
-def my_function():
-    print(x)
-my_function()
-print(x)
+# x = 10
+# def my_function():
+#     print(x)
+# my_function()
+# print(x)
