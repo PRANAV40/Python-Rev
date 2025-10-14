@@ -16,3 +16,10 @@ class D(A):
 
 
 d = D()
+
+class Config:
+    DB_HOST = "localhost"
+    DB_PORT = 5432
+
+class ProdConfir(Config):
+    DB_HOST = "prod-db.example.com"
