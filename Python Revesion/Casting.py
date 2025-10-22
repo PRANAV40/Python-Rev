@@ -1,0 +1,6 @@
+x=int(1.6)
+y=int(2.3)
+z=int(3)
+print(x)
+print(y)
+print(z)
